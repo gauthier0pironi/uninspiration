@@ -1,0 +1,84 @@
+#body_intro
+{
+background-color: grey;
+color: white
+}
+
+#body_win
+{
+background-color: black;
+color: white
+}
+
+#body_lose
+{
+background-color: black;
+color: white
+}
+
+h1
+{
+margin-bottom:1px;
+color: white;
+font-size: 48px;
+font-family: trajan pro;
+text-align: center;
+}
+
+.pass_intro
+{
+color: white;
+text-decoration:none; 
+font-style: underlined;
+font-size: 24px;
+font-family: trajan pro;
+}
+
+.names
+{
+color: white;
+margin-bottom:1px;
+font-size: 16;
+font-family: times;
+}
+
+
+.end_link
+{
+color: white;
+text-decoration:none; 
+font-style: underlined;
+font-size: 18px;
+font-family: trajan pro;
+}
+
+textarea#content {
+	width: 1043px;
+	height: 280px;
+	border: 1px solid #cccccc;
+	position:absolute; 
+	bottom:0%;
+ 	top: 314px;
+ 	left: 207px;
+	resize:none;
+}
+
+select#expeditor {
+	width: 400px;
+	position:absolute; 
+	top: 143px;
+ 	left: 261px;
+	resize:none;
+}
+
+input#envoyer {
+	width: 80px;
+	height: 29px;
+	color:white;
+	background-color: #DF4F38;
+	border: 1px solid #cccccc;
+	position:absolute; 
+	top: 83px;
+ 	left: 180px;
+	resize:none;
+}
